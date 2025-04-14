@@ -15,5 +15,5 @@ You may check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
+![foto bases msf](https://github.com/asevillasastre/GAMS-FLP-UNHCR/blob/main/docs/almacenes_graphic.png)
 ![foto pareto](https://github.com/asevillasastre/GAMS-FLP-UNHCR/blob/main/results/pareto_graphic.png)
-![foto bases msf](https://github.com/asevillasastre/GAMS-FLP-UNHCR/blob/main/docs/PresentacionAlmacenesACNUR.png)
