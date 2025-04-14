@@ -1,7 +1,7 @@
 # GAMS-FLP-UNHCR
 
 ### Abstract
-GAMS model for Facility Location Problem, based on on [that paper](https://www.sciencedirect.com/science/article/pii/S0272696316300444). Case study: Médecins Sans Frontières. Master's Degree in Disaster Management UCM UPM.
+GAMS model for the Facility Location Problem, based on [that paper](https://www.sciencedirect.com/science/article/pii/S0272696316300444). Case study: Médecins Sans Frontières. Master's Degree in Disaster Management UCM UPM.
 
 ### How to install?
 Use [the last version of GAMS](https://www.gams.com/download/) and the demo license.
