@@ -15,5 +15,5 @@ You may check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
-![foto pareto]()
+![foto pareto](https://github.com/asevillasastre/GAMS-FLP-UNHCR/blob/main/results/pareto_graphic.png)
 ![foto bases msf]()
